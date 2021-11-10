@@ -1,1 +1,1 @@
-# CMPE256-Dimensionality_Reduction_Assignment.ipynb
+# CMPE256-Dimensionality_Reduction_Assignment
